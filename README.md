@@ -24,23 +24,24 @@ Clone this repository:
 
 ```Bash
 git clone https://github.com/RifkiNS/Scraping-HTML.git
-
+```
 Navigate to the project directory:
 
 ```Bash
 cd Scraping-HTML
-
+```
 Install all required libraries:
 
 ```Bash
 pip install -r requirements.txt
-
+```
 Note: Make sure you have a requirements.txt file in your project. If you don't, you can create one by running the command: pip freeze > requirements.txt after installing all the libraries.
 
 📝 How to Use
 Once all dependencies are installed, you can run the scraping script.
 
 Execute the main script:
-
+```Bash
 python main.py
+```
 Note: Adjust main.py to match the name of your main script file.
